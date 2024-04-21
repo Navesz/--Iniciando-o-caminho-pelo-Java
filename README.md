@@ -1,12 +1,12 @@
 # Iniciando o caminho pelo Java
 Implementação de Cadastro de Clientes em Java com Persistência em Arquivos
 
-Campus: 202301037751 - POLO CENTRO - PORTO REAL - RJ
-Curso: Desenvolvimento Full Stack
-Disciplina: Nível 1: Iniciando o Caminho Pelo Java
-Turma: 9001
-Semestre letivo: 3º Semestre
-Nome do estudante: Leonardo Naves de Lima Araujo
+- Campus: 202301037751 - POLO CENTRO - PORTO REAL - RJ
+- Curso: Desenvolvimento Full Stack
+- Disciplina: Nível 1: Iniciando o Caminho Pelo Java
+- Turma: 9001
+- Semestre letivo: 3º Semestre
+- Nome do estudante: Leonardo Naves de Lima Araujo
 
 Missão Prática | Nível 1 | Mundo 3
 
