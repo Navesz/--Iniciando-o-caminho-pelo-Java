@@ -57,14 +57,17 @@ BUILD SUCCESSFUL (total time: 0 seconds)
 de código e melhora a organização do mesmo ao estabelecer uma hierarquia clara
 de classes. Contudo, pode levar a uma estrutura rígida e frágil, dificultando
 alterações futuras e a compreensão do fluxo de execução em sistemas complexos.
+
 ● Interface Serializable: Esta interface é necessária para a persistência em arquivos
 binários, pois habilita a capacidade de um objeto ser transformado em uma
 sequência de bytes e ser posteriormente reconstruído sem perder as informações de
 estado.
+
 ● Paradigma Funcional na API Stream: O paradigma funcional é utilizado na API
 Stream do Java para permitir operações de processamento de coleções de forma
 concisa e expressiva, apoiando-se em expressões lambda, operações de alto nível e
 processamento paralelo.
+
 ● Padrão de Desenvolvimento em Persistência de Dados: Na comunidade Java é
 comum o uso da serialização como meio de armazenamento de dados para
 recuperação futura, o que envolve a conversão de objetos em um formato que possa
