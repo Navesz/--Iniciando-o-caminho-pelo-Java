@@ -1,4 +1,4 @@
-# Iniciando-o-caminho-pelo-Java
+# Iniciando o caminho pelo Java
 Implementação de Cadastro de Clientes em Java com Persistência em Arquivos
 
 Campus: 202301037751 - POLO CENTRO - PORTO REAL - RJ
