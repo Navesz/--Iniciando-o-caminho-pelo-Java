@@ -13,8 +13,6 @@ Missão Prática | Nível 1 | Mundo 3
 RPG0014 - Iniciando o caminho pelo Java
 1º Procedimento | Criação das Entidades e Sistema de Persistência
 
-Implementação de Cadastro de Clientes em Java com Persistência em Arquivos
-
 # Objetivos da prática
 1. Utilizar herança e polimorfismo na definição de entidades.
 2. Utilizar persistência de objetos em arquivos binários.
